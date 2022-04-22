@@ -1,0 +1,16 @@
+
+
+ button{
+    padding: 35px 60px 35px 60px;
+    color: ghostwhite;
+    background-color: #bd2a2a;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 75px;
+}
+
+ button:hover{
+    box-shadow: 0 0 22px 7px ;
+    background-color: #000428;
+}
